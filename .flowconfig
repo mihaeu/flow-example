@@ -1,0 +1,6 @@
+[ignore]
+.*/dist
+
+[libs]
+flow_typed/npm
+

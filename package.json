@@ -1,0 +1,22 @@
+{
+  "name": "flow-example",
+  "version": "1.0.0",
+  "description": "Flow Hello World using ES6 and tests",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "flow-bin": "^0.37.4",
+    "flow-typed": "^2.0.0",
+    "jstransform": "^11.0.3",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Michael Haeuslmann <haeuslmann@gmail.com>",
+  "license": "MIT"
+}
